@@ -35,10 +35,8 @@ const questions = [
             "GNU General Public License (GLP)",
             "MIT License",
             "Mozilla Public License 2.0",
-            "Common Development and Distribution License",
-            "Eclipse Public License 2.0",
+            "Eclipse Public License 1.0",
             "Unlicensed"
-
         ]
     },
     {
